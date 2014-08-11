@@ -1,0 +1,142 @@
+{
+	"general": {
+		"date_time": "2014-08-11 16:32:40",
+		"total_requests": 154611,
+		"unique_visitors": 13,
+		"referrers": 0,
+		"log_size": 22495924,
+		"failed_requests": 0,
+		"unique_files": 1,
+		"unique_404": 0,
+		"bandwidth": 0,
+		"generation_time": 1,
+		"static_files": 0,
+		"log_file": "/data/log/nginx/signature-access.log"
+	},
+	"visitors": [
+		{
+			"hits": "6",
+			"percent": "46.15%",
+			"date": "11/Aug/2014",
+			"bytes": "0"
+		},
+		{
+			"hits": "7",
+			"percent": "53.85%",
+			"date": "10/Aug/2014",
+			"bytes": "0"
+		}
+	],
+	"requests": [
+		{
+			"hits": "154611",
+			"percent": "100.00%",
+			"data": "/encTask/",
+			"bytes": "0"
+		}
+	],
+	"static_requests": [
+	],
+	"not_found": [
+	],
+	"hosts": [
+		{
+			"hits": "28510",
+			"percent": "18.44%",
+			"data": "10.11.66.96",
+			"bytes": "0"
+		},
+		{
+			"hits": "28510",
+			"percent": "18.44%",
+			"data": "10.11.66.109",
+			"bytes": "0"
+		},
+		{
+			"hits": "24409",
+			"percent": "15.79%",
+			"data": "10.11.77.9",
+			"bytes": "0"
+		},
+		{
+			"hits": "24408",
+			"percent": "15.79%",
+			"data": "10.11.77.8",
+			"bytes": "0"
+		},
+		{
+			"hits": "24386",
+			"percent": "15.77%",
+			"data": "10.15.185.140",
+			"bytes": "0"
+		},
+		{
+			"hits": "24386",
+			"percent": "15.77%",
+			"data": "10.15.185.141",
+			"bytes": "0"
+		},
+		{
+			"hits": "2",
+			"percent": "0.00%",
+			"data": "10.10.141.81",
+			"bytes": "0"
+		}
+	]
+,
+	"os": [
+		{
+			"hits": "13",
+			"percent": "100.00%",
+			"data": "Unknown",
+			"items": [
+				{
+					"hits": "13",
+					"percent": "100.00%",
+					"data": "Unknown"
+				}
+			]
+		}
+
+	],
+	"browsers": [
+		{
+			"hits": "13",
+			"percent": "100.00%",
+			"data": "Unknown",
+			"items": [
+				{
+					"hits": "13",
+					"percent": "100.00%",
+					"data": "Unknown"
+				}
+			]
+		}
+
+	],
+	"referrers": [
+
+	],
+	"referring_sites": [
+
+	],
+	"keyphrases": [
+
+	],
+	"status_codes": [
+		{
+			"hits": "154611",
+			"percent": "100.00%",
+			"data": "2xx Success",
+			"items": [
+				{
+					"hits": "154611",
+					"percent": "100.00%",
+					"data": "200 - OK: The request sent by the client was successful"
+				}
+			]
+		}
+
+	]
+
+}
