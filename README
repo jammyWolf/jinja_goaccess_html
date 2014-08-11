@@ -1,4 +1,4 @@
-1. 确保10.15.132.71机子添加了本机的public key；
+﻿1. 确保目标机子添加了本机的public key；
 2. 将此压缩包解压之后放在任意的路径下
 3. 进入jj_mail，执行fab deploy -Rtest
 4. 收件人的配置在global_path.py中的mailto_list，发件人也是在这里配置
